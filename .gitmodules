@@ -1,0 +1,3 @@
+[submodule "extra_packages/articulus_msgs"]
+	path = extra_packages/articulus_msgs
+	url = git@github.com:Articulus-Surgical/articulus_msgs.git
